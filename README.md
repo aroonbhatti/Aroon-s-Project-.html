@@ -2,6 +2,9 @@
 My first webpage.
 
 <html>
+<head>
+<title>A.J.B Gaming Zone</title>
+</head>
 <body>
   <h1><font color="Green"><u> Pakistan </u></font></h1>
   <br>
