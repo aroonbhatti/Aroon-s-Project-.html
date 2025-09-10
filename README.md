@@ -1,6 +1,7 @@
 # Aroon-s-Project-.html
 My first webpage.
 
+<!DOCTYPE.html>
 <html>
 <head>
   <title>A.J.B Gaming Zone</title>
